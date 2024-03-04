@@ -1,7 +1,7 @@
 
 <head>
       	<meta charset= "UTF-8">
-        <meta name="viewpoint" content= "width= device-width, initial-scale=1.0>
+
         <title> My Web Page</title>
 </head>
 <body>
@@ -9,6 +9,6 @@
         <p>The website is created for introduction of Network class</p>
         <P>Homework2 </P>
 </body>
-</html>
+
 
 
